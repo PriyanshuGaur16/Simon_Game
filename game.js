@@ -25,7 +25,7 @@ $(".btn").on("click",function(){
     checkAnswer(userClickedPattern.length-1);
 })
 function playsound(color){
-    var audio =new Audio('sounds/' + color + '.mp3');
+    var audio =new Audio( color + '.mp3');
     audio.play();
 }
 function animatePress(color){
@@ -51,7 +51,7 @@ function checkAnswer(currentLevel){
         }
     }
     else{
-        var audioWr =new Audio('sounds/wrong.mp3');
+        var audioWr =new Audio('wrong.mp3');
         audioWr.play();
         $("body").addClass("game-over");
         setTimeout(function(){
