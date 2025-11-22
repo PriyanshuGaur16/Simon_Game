@@ -1,7 +1,7 @@
 # Simon_Game
 🎮 Simon Game
 
-The Simon Game is a classic interactive memory challenge where players test and improve their concentration by repeating an ever-growing sequence of lights and sounds. With every correct repetition, the sequence becomes longer and more complex — pushing memory and reaction skills to the limit.
+The Simon Game is a classic interactive memory challenge where players test and improve their concentration by repeating an ever growing sequence of lights and sounds. With every correct repetition, the sequence becomes longer and more complex pushing memory and reaction skills to the limit.
 
 🔥 Features
 
@@ -21,4 +21,4 @@ The player must repeat the sequence by clicking the buttons in the same order.
 
 Each successful round increases the sequence length.
 
-A wrong input ends the game — but the player can restart anytime.
+A wrong input ends the game but the player can restart anytime.
